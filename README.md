@@ -13,7 +13,7 @@ This app is a PoC in a very early alpha stage: do **NOT** use on mainnet for now
 ## Install
 
 ```
-git clone https://github.com/pandonetwork/apiary
+git clone https://github.com/pandonetwork/apiary.git
 ```
 
 ```
