@@ -1,0 +1,10 @@
+{
+  "name": "Apiary",
+  "description": "DAICO application for Aragon DAOs",
+  "icons": [{
+    "src": "/dist/assets/images/icon.svg",
+    "sizes": "22x22"
+  }],
+  "start_url": "/dist/index.html",
+  "script": "/dist/script.js"
+}

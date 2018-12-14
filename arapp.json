@@ -1,0 +1,28 @@
+{
+  "path": "contracts/Apiary.sol",
+  "roles": [
+    {
+      "name": "Buy bonds",
+      "id": "BUY_ROLE"
+    },
+    {
+      "name": "Sell bonds",
+      "id": "SELL_ROLE"
+    },
+    {
+      "name": "Withdraw funds from reserve pool to Vault",
+      "id": "WITHDRAW_ROLE"
+    },
+    {
+      "name": "Update tap",
+      "id": "UPDATE_TAP_ROLE"
+    }
+  ],
+  "environments": {
+    "default": {
+      "network": "test",
+      "registry": "0x5f6f7e8cc7346a11ca2def8f827b7a0b612c56a1",
+      "appName": "apiary.aragonpm.eth"
+    }
+  }
+}
